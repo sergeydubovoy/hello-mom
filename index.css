@@ -1,0 +1,59 @@
+body {
+    background-image: url(https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f6d35fe1-813b-4d36-b681-b7a90010eeec/watercolor.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230217%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230217T143035Z&X-Amz-Expires=86400&X-Amz-Signature=040cca7086ff05009f2e6631a5b52173fdcabb2933db1c64df5da26541dcb2e9&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22watercolor.jpeg%22&x-id=GetObject);
+    font-family: 'arial';
+    text-align: center;
+}
+h1 {
+    font: normal bold 30px/3 "arial";
+    color: #E91E63;
+}
+p{
+    font: normal bold 16px/1 "arial";
+}
+a{
+    font: normal normal 16px/1 "arial";
+}
+div.button {
+    width: 120px;
+    margin: 0 auto;
+}
+button {
+    background-color: #E91E63;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    padding: 12px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    border: 2px solid #E91E63;
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+}
+button:hover {
+    background-color: #ffffff;
+    color: #E91E63;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19)
+}
+div.image {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+}
+img {
+    border: none;
+    border-radius: 8px;
+}
+div.movies {
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.output{
+    font: normal bold 30px/3 "arial";
+    color: #E91E63;
+}
