@@ -1,5 +1,5 @@
 body {
-    background-image: url(https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f6d35fe1-813b-4d36-b681-b7a90010eeec/watercolor.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230217%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230217T143035Z&X-Amz-Expires=86400&X-Amz-Signature=040cca7086ff05009f2e6631a5b52173fdcabb2933db1c64df5da26541dcb2e9&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22watercolor.jpeg%22&x-id=GetObject);
+    background-image: url(images/background.png);
     font-family: 'arial';
     text-align: center;
 }
